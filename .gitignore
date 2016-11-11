@@ -1,0 +1,9 @@
+node_modules
+dist
+.tmp
+bower_components
+.idea
+npm-debug.log
+src/*.bundle.js
+src/*.hot-update.json
+src/*.hot-update.js
