@@ -16,6 +16,9 @@
     "webpack-dev-server": "^1.12.1"
   },
   "dependencies": {
+    "file-system": "^2.2.1",
+    "fs": "0.0.1-security",
+    "rsvp": "^3.3.3",
     "rxjs": "^5.0.0-rc.2"
   }
 }
